@@ -1,3 +1,3 @@
 public class MiniPaint {
-    //more practice
+    //more practice1
 }
